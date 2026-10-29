@@ -1,0 +1,9 @@
+﻿Generado: 2026-10-29T01:35:41   Fuente: C:\Users\andre\Downloads\mobiaire1-sprint1-2-interfaz-web\mobiaire1-sprint1-2-interfaz-web\ingesta\datos_demo.json
+*** DATOS DE DEMOSTRACI├ôN (sint├®ticos), no son mediciones reales ***
+
+ESTACI├ôN                      ICA  NIVEL      PM2.5   PM10  DOMINANTE ├ÜLTIMA MEDICI├ôN
+Estacion Demo Roja            173  ROJO        79.9  299.8  PM10      2026-10-29T01:00:00
+Tunal                         121  NARANJA     44.9  119.8  PM25      2026-10-29T01:00:00
+Ciudad Bol├¡var                 33  VERDE        7.9   34.8  PM25      2026-10-29T01:00:00
+
+P├ígina generada: C:\Users\andre\Downloads\mobiaire1-sprint1-2-interfaz-web\mobiaire1-sprint1-2-interfaz-web\ingesta\resultados_demo.html

@@ -1,0 +1,12 @@
+﻿python : 2026-10-29 01:35:41,648 INFO Modo DEMO: datos sintÚticos en 
+C:\Users\andre\Downloads\mobiaire1-sprint1-2-interfaz-web\mobiaire1-sprint1-2-interfaz-web\ingesta\datos_demo.json
+En línea: 1 Carácter: 98
++ ... print1-2-interfaz-web"; python -m ingesta.ingesta --demo 2>&1 | Out-F ...
++                             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (2026-10-29 01:3...datos_demo.json:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+2026-10-29 01:35:41,672 INFO Ciclo OK en 0.0s: 270 registros, 3 estaciones (3 con ICA)
+2026-10-29 01:35:41,672 INFO   ciudad_bolivar               ICA 33 verde
+2026-10-29 01:35:41,672 INFO   tunal                        ICA 121 naranja
+2026-10-29 01:35:41,672 INFO   estacion_demo_roja           ICA 173 rojo

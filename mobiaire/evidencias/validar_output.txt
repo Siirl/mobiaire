@@ -1,0 +1,13 @@
+﻿Estaci¾n: Ciudad BolÝvar  (SECRETARIA DISTRITAL DE AMBIENTE (DEMO))
+
+PM25: 24 datos en las 24 h hasta 2026-10-29 01:00:00
+   valores: 9, 8, 7, 6, 10, 9, 8, 7, 6, 10, 9, 8, 7, 6, 10, 9, 8, 7, 6, 10, 9, 8, 7, 6
+   promedio 24 h = 7.92 Ág/m│ -> redondeo 8
+   tramo ICA 0-50 / conc 0-12  =>  ICA PM25 = 33
+
+PM10: 24 datos en las 24 h hasta 2026-10-29 01:00:00
+   valores: 37, 35, 33, 31, 39, 37, 35, 33, 31, 39, 37, 35, 33, 31, 39, 37, 35, 33, 31, 39, 37, 35, 33, 31
+   promedio 24 h = 34.83 Ág/m│ -> redondeo 35
+   tramo ICA 0-50 / conc 0-54  =>  ICA PM10 = 32
+
+RESULTADO: ICA 33 = VERDE (categorÝa oficial: verde, dominante PM25)

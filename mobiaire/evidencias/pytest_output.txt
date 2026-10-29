@@ -1,0 +1,11 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.2.0, pluggy-1.7.0
+rootdir: C:\Users\andre\Downloads\mobiaire1-sprint1-2-interfaz-web\mobiaire1-sprint1-2-interfaz-web
+configfile: pytest.ini
+testpaths: motor_ica, ingesta
+collected 55 items
+
+motor_ica\test_ica.py ...........................                        [ 49%]
+ingesta\test_ingesta.py ............................                     [100%]
+
+============================= 55 passed in 1.27s ==============================
